@@ -110,6 +110,7 @@ margin-left: 2rem;
     color:var(--main-color);
 }
 
+
 .about .row{
     display: flex;
     align-items: center;
@@ -211,17 +212,7 @@ margin-left: 2rem;
     
  }
  
-    
-
-
-
-
-
-
-
-
-
-
+   
 .menu .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -263,6 +254,7 @@ margin-left: 2rem;
     color:var(--black);
 }
 
+
 .review .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -293,18 +285,6 @@ margin-left: 2rem;
     font-size: 1.5rem;
     color:var(--main-color);
 }  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .contact .row {
@@ -355,6 +335,7 @@ margin-left: 2rem;
     text-transform: none;
     background:none;
 }
+
 
 .footer{
     background-color: var(--gray);
