@@ -110,6 +110,14 @@ margin-left: 2rem;
     color:var(--main-color);
 }
 
+ #clock {
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: thistle;
+    text-align: center;
+    margin-top: 25%;
+  }
 
 .about .row{
     display: flex;
