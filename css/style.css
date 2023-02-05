@@ -126,11 +126,11 @@ margin-left: 2rem;
     flex-wrap: wrap;
 }
 
-.about .row  .image{
+.about .row  .video{
     flex: 1 1 45rem;
 }
 
-.about .row  .image  img{
+.about .row  .video  source{
     width: 100%;
 }
 
